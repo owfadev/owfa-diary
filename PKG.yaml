@@ -1,6 +1,6 @@
 schema_version: 1
 id: diary
-version: 0.3
+version: 0.3.1
 compat: ">= 0.2"
 members: [diary]
 connectors: []
